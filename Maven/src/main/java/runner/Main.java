@@ -7,6 +7,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Calculadora");
+        System.out.println("holaaaaaa");
         System.out.print("Primer numero: ");
         double firstNumber = scanner.nextDouble();
 

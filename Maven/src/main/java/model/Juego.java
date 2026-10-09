@@ -1,5 +1,5 @@
 package model;
 
-public class Game {
+public class Juego {
     
 }
